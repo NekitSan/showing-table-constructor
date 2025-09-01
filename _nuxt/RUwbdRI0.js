@@ -1,0 +1,1 @@
+import{d as s,t,v as a,x as n,ab as o}from"./xtWqeSs5.js";const l={class:"swit ubuntu isolate grid h-full min-h-[100vh]"},r={class:"landing"},_=s({__name:"default",setup(c){return(e,d)=>(t(),a("div",l,[n("main",r,[o(e.$slots,"default")])]))}});export{_ as default};
